@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class="pubs">
+<div class="pubs" markdown="1">
 
 ## Publications
 
