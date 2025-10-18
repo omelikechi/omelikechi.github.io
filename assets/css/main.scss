@@ -41,3 +41,14 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* --- Custom styles --- */
+
+/* Make publication links blue */
+.pubs a {
+    color: #0077cc;
+}
+
+.pubs a:hover {
+    color: #005999;
+}
