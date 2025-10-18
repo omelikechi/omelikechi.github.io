@@ -7,7 +7,6 @@ author_profile: true
 
 <div class="pubs">
 
----
 ## Publications
 ---
 **Integrated path stability selection** (2025)  
