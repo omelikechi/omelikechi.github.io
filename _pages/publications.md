@@ -9,7 +9,7 @@ author_profile: true
 
 **Integrated path stability selection** (2025)  
 *O. Melikechi and J.W. Miller*  
-*[Journal of the American Statistical Association](https://doi.org/10.1080/01621459.2025.2525589)* (also available on [arXiv](https://arxiv.org/abs/2403.15877))  
+[[Journal of the American Statistical Association](https://doi.org/10.1080/01621459.2025.2525589)][[arXiv](https://arxiv.org/abs/2403.15877))]  
 
 **Nonparametric IPSS: Fast, flexible feature selection with false discovery control** (2025)  
 *O. Melikechi, D.B. Dunson, and J.W. Miller*  
