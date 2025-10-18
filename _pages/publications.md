@@ -35,7 +35,7 @@ author_profile: true
 
 **Hitting time of Brownian motion subject to shear flow** (2022)  
 *D. Chouliara, Y. Gong, S. He, A. Kiselev, J. Lim, O. Melikechi, and K. Powers*  
-[[Involve: A Journal of Mathematics](10.2140/involve.2022.15.131)]  
+[[Involve: A Journal of Mathematics](https://doi.org/10.2140/involve.2022.15.131)]  
 
 ---
 ## Preprints
