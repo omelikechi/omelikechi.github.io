@@ -7,7 +7,8 @@ author_profile: true
 
 <div class="pubs" markdown="1">
 
-## Publications
+# Publications
+<hr>
 
 **Integrated path stability selection** (2025)  
 *O. Melikechi and J.W. Miller*  
@@ -38,8 +39,8 @@ author_profile: true
 [[Involve: A Journal of Mathematics](https://doi.org/10.2140/involve.2022.15.131)]  
 
 ---
-
-## Preprints
+# Preprints
+<hr>
 
 **Local graph estimation: Interpretable network discovery for complex data** (2025)  
 *O. Melikechi, D.B. Dunson, N. Melikechi, and J.W. Miller*  
