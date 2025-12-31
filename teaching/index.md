@@ -1,15 +1,10 @@
 ---
 layout: archive
 title: "Teaching"
-permalink: /teaching/
 author_profile: true
 ---
-
-<div markdown="1">
 
 # Teaching
 <hr>
 
 [Spring 2026: Bayesian Modeling (STA402L)](https://sta402spring26.github.io)
-
-</div>
