@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 author_profile: true
 ---
 
 # Teaching
 <hr>
 
-[Spring 2026: Bayesian Modeling (STA402L)](https://sta402spring26.github.io)
+Spring 2026: [Bayesian modeling (STA402L)](https://omelikechi.github.io/sta402spring26/)
