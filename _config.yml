@@ -255,6 +255,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar: false
   # _teaching
   - scope:
       path: ""
